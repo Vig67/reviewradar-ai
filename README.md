@@ -3,7 +3,7 @@
 An individual capstone project demonstrating the deployment of production-grade Artificial Intelligence for advanced data interpretation, text classification, and business intelligence insights.
 
 ## 🔗 Live Application Link
-live app :
+live app : https://reviewradar-ai-ejvt4o7wzwuoidnq8u4k5y.streamlit.app/
 
 ---
 
