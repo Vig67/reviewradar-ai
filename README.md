@@ -10,7 +10,7 @@ live app : https://reviewradar-ai-ejvt4o7wzwuoidnq8u4k5y.streamlit.app/
 ## 📌 Project Overview & Business Value
 In modern data ecosystems, unstructured textual data (customer reviews, support tickets, social media mentions) contains vital operational signals. Traditional keyword-matching architectures fail to understand human nuance, sarcasm, and conditional context.
 
-**Insightpulse** addresses this issue by utilizing an advanced Deep Learning Transformer model to automate **text classification**. The system ingests raw consumer reviews via a real-time playground or a bulk CSV upload pipeline, structures the data through programmatic analysis, and maps out actionable insights via an interactive data visualization layer.
+**reviewradar-ai** addresses this issue by utilizing an advanced Deep Learning Transformer model to automate **text classification**. The system ingests raw consumer reviews via a real-time playground or a bulk CSV upload pipeline, structures the data through programmatic analysis, and maps out actionable insights via an interactive data visualization layer.
 
 ---
 
@@ -45,4 +45,4 @@ The technical foundation for this system was cultivated across two key specializ
 ├── app.py                  # Main Streamlit web application engine
 ├── requirements.txt        # Production dependencies mapped for the hosting server
 ├── README.md               # Executive project documentation (This file)
-└── sentiment_test_dataset.csv # Standard evaluation matrix file used for validation testing
+
